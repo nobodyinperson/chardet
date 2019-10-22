@@ -21,7 +21,7 @@ def readme():
         return f.read()
 
 
-setup(name='chardet',
+setup(name='python3-chardet',
       version=get_version(),
       description='Universal encoding detector for Python 2 and 3',
       long_description=readme(),
